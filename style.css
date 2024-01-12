@@ -1,0 +1,301 @@
+body {
+    background-color: #0D181C;
+    
+}
+
+.fs-4 {
+    color: #C6D5D5;
+    font-family: "Hiragino Sans", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+/* Style for non-active nav-pills */
+.nav-pills .nav-item .nav-link {
+    color: #FFF;
+    font-family: Hiragino Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    /* Other styles */
+}
+
+
+
+.nav-pills .nav-item .nav-link.active {
+    background-color: #587275;
+    color: #FFF;
+    font-family: Hiragino Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+        
+}
+
+#photo img{
+background: url(Resume/assets/Photo.jpeg), lightgray 50% / contain no-repeat ;
+backdrop-filter: blur(2px);
+border-radius: 50px;
+}
+
+#name {
+    color: #FFF !important;
+    text-align: center;
+    font-family: Didot;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.lead {
+    color: #FFF;
+    text-align: center;
+    font-family: Hiragino Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 48px; /* 200% */
+    letter-spacing: 1.2px;
+}
+
+.h2 {
+    color: #FFF;
+    font-family: Hiragino Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px; /* 150% */
+}
+
+p {
+    color: #C6D5D5;
+    font-family: Hiragino Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+.h1 {
+    color: #FFF !important; 
+    font-family: Didot;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+hr {
+    color: #FFF
+}
+
+.feature-icon {
+    border-radius: 10%;
+    background: #587275 !important;
+    width: 41px;
+    height: 41px;
+}
+
+.PH1 {
+    color: #FFF !important;
+font-family: Hiragino Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.PH2 {
+color: #FFF !important;
+font-family: Hiragino Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.PH3 {
+color: rgba(255, 255, 255, 0.58) !important;
+font-family: Hiragino Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.FT1 {
+color: #FFF;
+font-family: Hiragino Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+opacity: 0.6;
+}
+
+
+.about {
+color: #FFF !important; 
+font-family: Didot;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.descr {
+color: #FFF;
+text-align: center;
+font-family: Hiragino Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: 48px; /* 200% */
+letter-spacing: 1.2px;
+}
+
+.skill {
+color: #FFF !important;
+font-family: Hiragino Sans;
+font-size: 22px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.custom-bg {
+    background: rgba(255, 255, 255, 0.50);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.50);
+}
+
+.custom-bg2 {
+    background: rgba(88, 114, 117, 0.25);
+    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.30);
+}
+
+.ExpText {
+    color: #FFF;
+font-family: Hiragino Sans;
+font-size: 17px;
+font-style: normal;
+font-weight: 200;
+line-height: 25px; /* 155% */
+}
+
+.text-primary {
+    color: #FFF !important;
+font-family: Hiragino Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500 !important;
+line-height: normal;
+}
+
+.position {
+    color: #0D181C;
+font-family: Hiragino Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 180;
+line-height: normal;
+}
+
+.company {
+    color: #252F30;
+font-family: Hiragino Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 200 !important;
+line-height: normal;
+}
+
+.cert {
+    background-color: #0D181C !important;
+    color: #FFF;
+    font-family: Hiragino Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+
+.btn {
+    border-radius: 17px;
+background: #587275;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.50);
+}
+
+.btntext {
+    color: #FFF;
+font-family: Hiragino Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.r1 {
+    color: #FFF !important; 
+    font-family: Didot;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.contact {
+
+color: #FFF;
+font-family: Hiragino Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.info {
+    color: rgba(255, 255, 255, 0.80);
+font-family: Hiragino Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.square {
+    background-color: rebeccapurple;
+}
+
+
+.feature-col-meat {
+
+    border-radius: 8px;
+    background: rgba(88, 114, 117, 0.25);
+    box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0.30);
+    width: 370px;
+    height: 200px;
+    flex-shrink: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        padding-top: 3rem; /* Adjust spacing for smaller screens */
+    }
+
+    .feature-col-meat {
+        width: 100%; /* Occupy full width on smaller screens */
+        margin-bottom: 1.5rem; /* Add some spacing between items */
+    }
+
+    .container.justify-content-around {
+        flex-direction: column; /* Change layout to a column */
+        align-items: center; /* Center items in the column */
+    }
+}
